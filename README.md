@@ -26,27 +26,36 @@
 ## 🛠️ My Skills
 
 <!--
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
+-------------------------TESTING
 <p align="center">
   &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a>
+  <a href="#"><img alt="TDD" src="https://img.shields.io/badge/TDD-%23000000.svg?style=plastic&logo=tdd&logoColor=white"></a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a>
+  <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%205.9.0-%23000000.svg?style=plastic&logo=junit&logoColor=white"></a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
+  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito%205.3.1-%23000000.svg?style=plastic&logo=mockito&logoColor=white"></a>
 </p>
--->
+
+-------------------------DISEÑO GRAFICO
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%231572B6.svg?style=plastic&logo=adobe-photoshop&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=plastic&logo=adobe-illustrator&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23324E93.svg?style=plastic&logo=figma&logoColor=white"></a>
+</p>
+
+-------------------------DATABASE
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%208.0-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server%2016-%232F5C77.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate%205.4-%237B7B7B.svg?style=plastic&logo=hibernate&logoColor=white"></a>
+</p>
+ -->
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
 
@@ -67,7 +76,9 @@
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23D50032.svg?style=plastic&logo=angular&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Backend Development
+<!-- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Backend Development -->
+
+### <picture> <img src = "Gifs/gif-Backend.gif" width = 50px> </picture> Backend Development
 
 <p align="center">
   &emsp;
@@ -104,7 +115,6 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
    &emsp;
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-FFFFFF.svg?style=plastic&logo=visual-studio&logoColor=white&color=800080"></a>
   &emsp;
@@ -125,7 +135,7 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----
+---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
