@@ -18,8 +18,8 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-	<a href="mailto:cocomatias6@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/matiasCoco1997"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:cocomatias6@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;
+	<a href="https://github.com/matiasCoco1997"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>&emsp;
 	<a href="https://www.linkedin.com/in/matias-coco-812a41230/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -106,7 +106,7 @@
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23324E93.svg?style=plastic&logo=figma&logoColor=white"></a>
 </p>
 
-<!-- IDES ***************************************************************************************************************************************************** -->
+<!-- IDES ------------------------------------------------------------------------------------------------------------------------------------>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> IDEs
 
