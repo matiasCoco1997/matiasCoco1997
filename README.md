@@ -74,8 +74,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
 <!-- Database -->
@@ -91,11 +89,11 @@
 <!-- Testing -->
 <p align="center">
   &emsp;
-  <a href="#"><img alt="TDD" src="https://img.shields.io/badge/TDD-%23000000.svg?style=plastic&logo=tdd&logoColor=white"></a>
+  <a href="#"><img alt="TDD" src="https://img.shields.io/badge/TDD-%23007ACC.svg?style=plastic&logo=tdd&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%205.9.0-%23000000.svg?style=plastic&logo=junit&logoColor=white"></a>
+  <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%205.9.0-%23D32F2F.svg?style=plastic&logo=junit&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito%205.3.1-%23000000.svg?style=plastic&logo=mockito&logoColor=white"></a>
+  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito%205.3.1-%234CAF50.svg?style=plastic&logo=mockito&logoColor=white"></a>
 </p>
 
 <!-- Graphic Design -->
@@ -124,5 +122,3 @@
 </p>
 
 <br>
-
----
